@@ -53,7 +53,7 @@ export default function Home() {
         Order Management App
       </h2>
       <p className={styles.description}>
-        Hello Mr {state.user?.name}
+        Hello Mr {state.user?.name} Good to meet u
 
       </p>
 
