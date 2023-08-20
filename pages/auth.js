@@ -16,7 +16,7 @@ export default function Auth() {
         <>
             <div classname={styles.container}>
                 <h2 className={styles.title}>
-                    Order Management App
+                    Order Management App  Testing
                 </h2>
 
                 <LoginForm />
